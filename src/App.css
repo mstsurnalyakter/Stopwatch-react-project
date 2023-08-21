@@ -35,11 +35,9 @@
     list-style: none;
     text-decoration: none;
    margin: 0.1rem;
-  
+   outline: none;
   }
   
-
-
 
 .App{
     background-color: rgb(238, 238, 238);
